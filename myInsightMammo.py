@@ -1,4 +1,10 @@
 import streamlit as st
+import subprocess
+import sys
+
+
+subprocess.check_call([sys.executable, "-m", "pip", "install", "joblib"])
+
 import joblib
 import numpy as np
 import pandas as pd
