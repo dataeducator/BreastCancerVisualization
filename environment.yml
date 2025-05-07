@@ -7,6 +7,8 @@ dependencies:
   - flask_cors=3.0.10=pyhd3eb1b0_0
   - watchdog=3.0.0=py311h38be061_1
   - jupyter
+  - plotly
+  - joblib
   - matplotlib
   - numpy
   - psycopg2
