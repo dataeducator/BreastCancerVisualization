@@ -14,4 +14,4 @@ Leveraging machine learning, Zenith Medical Analytics aims to explore how differ
 
 ## 📌 Deployment:
 
-The app can be accessed here [https://the-mmc-mammo.streamlit.app/]
+The app can be accessed here [[https://the-mmc-mammo.streamlit.app/](https://the-mmc-mammo-insight.streamlit.app/)]
