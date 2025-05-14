@@ -7,13 +7,13 @@ This Jupyter notebook and its contents are intended solely for educational purpo
 
 The findings are for illustrative purposes only, and users should not rely on these predictions for clinical decision-making. Consult a licensed medical professional for diagnosis and treatment. The dataset used may not fully represent real-world clinical scenarios, and predictions should be interpreted with caution.
 
-The author and contributors of this notebook disclaim any liability for the accuracy, completeness, or efficacy of the information provided.
+The author and contributors of this notebook disclaim any liability for the information's accuracy, completeness, or efficacy.
 
 ## 📌 Overview:
 
-The primary objective of this project is to develop a linear regression model capable of predicting tumor area (Area Mean) based on various diagnostic features.
+The primary objective of this project is to develop a trained machine-learning model capable of predicting tumor area (Area Mean) based on various diagnostic features.
 
-Leveraging machine learning, Zenith Medical Analytics aims to explore how different cellular characteristics influence tumor size, which could contribute to better understanding of tumor growth patterns and potential risk factors.
+Leveraging machine learning, Zenith Medical Analytics aims to explore how different cellular characteristics influence tumor size, which could contribute to a better understanding of tumor growth patterns and potential risk factors.
 
 
 
