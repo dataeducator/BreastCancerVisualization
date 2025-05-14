@@ -122,7 +122,7 @@ Visualizations such as SHAP plots and confusion matrices are provided to interpr
 
 **Web Application (Work in Progress):**
 
-The app can be accessed here [[https://the-mmc-mammo.streamlit.app/](https://the-mmc-mammo-insight.streamlit.app/)]
+The app can be accessed here [The MMC Mammo Insight Tool](https://the-mmc-mammo-insight.streamlit.app/)
 ---
 
 ## Recommendations
