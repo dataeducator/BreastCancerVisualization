@@ -127,7 +127,7 @@ The app can be accessed here [The MMC Mammo Insight Tool](https://the-mmc-mammo-
 
 ## Recommendations
 
-- **Use Ensemble Models:** Random Forest and XGBoost consistently offer high performance and robustness.
+- **Use SVM Model with tuned hyperparameters:** SVM and ANNs consistently offer high performance and robustness.
 - **Feature Selection:** Focus on the most influential features for streamlined and interpretable models.
 - **Model Interpretability:** Utilize SHAP or LIME for explaining predictions to clinicians.
 - **Continuous Improvement:** Regularly retrain models with new data to maintain accuracy.
