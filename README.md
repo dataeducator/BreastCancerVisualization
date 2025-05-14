@@ -143,4 +143,13 @@ The app can be accessed here [[https://the-mmc-mammo.streamlit.app/](https://the
 
 ---
 
-## Repository Structure
+## Contact
+
+For questions or collaboration, please contact:
+
+**Tenicka Norwood**  
+tenicka.norwood@gmail.com
+
+---
+
+*For more details, please see the full analysis in the notebook and the streamlit application.*
